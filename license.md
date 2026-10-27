@@ -194,7 +194,7 @@ footprint first.
 
 > 🛟 **Still stuck?** Open an issue and include your OS and the steps you tried — the guide above solves 9 out of 10 problems.
 
-*avatar-generator-software · Updated 2026-10-26 · Shared under the MIT License*
+*avatar-generator-software · Updated 2026-10-27 · Shared under the MIT License*
 
 
-Updated 2026-10-26.
+Updated 2026-10-27.
